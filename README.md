@@ -20,3 +20,13 @@ Prepare for the CCNA exam with comprehensive study materials, including:
    cd Cisco_CCNA_Routing_and_Switching
    ```
 3. Explore the study materials and lab exercises.
+
+---
+
+<img src="/Images/Cisco_OSPF.png" alt="Cisco OSPF Diagram" width="600"/>
+
+---
+
+## Resources
+- [Cisco Certified Network Associate](https://www.cisco.com/site/us/en/learn/training-certifications/exams/ccna.html)
+- [Prepare for your CCNA exam with official CCNA exam topics](https://learningnetwork.cisco.com/s/ccna-exam-topics)
